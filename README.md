@@ -1,4 +1,4 @@
-# Example Client
+# Example Program
 
 ## Design Notes
 

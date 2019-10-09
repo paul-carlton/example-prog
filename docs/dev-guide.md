@@ -29,11 +29,6 @@ Then build:
 
     make
 
-## API
-
-To generate the golang source code for client and server implementation of the API type 'make swagger'.
-This generates golang source for api to create packages needed to develop and build the Updater.
-
 ## Development
 
 The Makefile in the project's top level directory will compile, build and test all components.
@@ -48,7 +43,7 @@ If changes are made to go source imports you may need to perform a go mod vendor
 
     make gomod-update
 
-###  Testing client on Workstation
+###  Testing program on Workstation
 
 To run the client:
 
