@@ -45,7 +45,7 @@ If changes are made to go source imports you may need to perform a go mod vendor
 
 ###  Testing program on Workstation
 
-To run the client:
+To run the program:
 
     cd $GOPATH/src/github.com/paul-carlton/example-prog
     . bin/env.sh
